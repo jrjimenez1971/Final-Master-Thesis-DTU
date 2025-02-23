@@ -1,2 +1,2 @@
-# Final-Master-Thesis-DTU
-Final Master Thesis - Wind farm optimization with group random search
+# GitHub-Repository---Master-Thesis-Wind-farm-layout-optimization-with-group-random-search
+ 
